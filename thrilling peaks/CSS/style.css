@@ -1,5 +1,7 @@
 
 @import url("components/banner.css");
+@import	url("components/button.css") ;
+
 
 .btn-green {
 	background-color: #729B76;
