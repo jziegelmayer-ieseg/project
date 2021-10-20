@@ -5,38 +5,44 @@
 @import url ("components/button.css");
 
 
-
 body {
 	font-family: 'Alice', serif;
 	font-size: 22 px;
 	background-color: #fff7eb;  
-
 }
-
 
 h1,h2 {
 	   font-family: 'Alice', serif;
-
 }
-
 
 
 h1 {
 	font-size: 48px;
 	font-weight: bold; 
-
-
 }
 
 
 h2 {
 	font-size: 36px;
-
 }
 
 
 a {
 	text-decoration: none ; 
 }
+
+
+.btn-green {
+	background-color: #729B76;
+	color:  white;
+	padding:  15px 20px;
+	border-radius: 4px;
+}
+
+.btn-green:hover {
+	background-color: #4A714E;
+	color: white;
+}
+
 
 
