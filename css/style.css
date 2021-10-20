@@ -1,15 +1,24 @@
 
-
 @import url("https://fonts.googleapis.com/css2?family=Alice&display=swap"); 
 @import url("components/banner.css"); 
 @import url("components/button.css");
+
 
 
 body {
 	font-family: 'Alice', serif;
 	font-size: 22 px;
 	background-color: #fff7eb;  
+	position:relative;
+	width: 100%;
+	height:1500px;
+    padding: 0;
+    margin: 0;
+
+
 }
+
+
 
 h1,h2 {
 	   font-family: 'Alice', serif;
@@ -31,6 +40,8 @@ a {
 	text-decoration: none ; 
 }
 
+ 
+
 footer {
         padding: 30px 700px;
         background: #729B76;
@@ -39,6 +50,7 @@ footer {
         bottom:0;
 
       }
+
 
 
 
