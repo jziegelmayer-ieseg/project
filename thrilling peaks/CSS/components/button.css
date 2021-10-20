@@ -27,3 +27,17 @@
 	background-color: black;
 	color: white;
 }
+
+
+
+.btn-green {
+	background-color: #729B76;
+	color:  white;
+	padding:  15px 20px;
+	border-radius: 4px;
+}
+
+.btn-green:hover {
+	background-color: #4A714E;
+	color: white;
+}
