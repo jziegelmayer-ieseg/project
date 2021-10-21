@@ -44,12 +44,14 @@ a {
  
 
 footer {
-        padding: 30px 676px;
-        background: #729B76;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        padding: 30px 0px;
+        background-color: #729B76;
         color: white;
-        position:absolute;
-        bottom:0;
-
+        bottom: 0;
       }
 
 
